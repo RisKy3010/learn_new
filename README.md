@@ -1,3 +1,4 @@
 # learn_new
 trying git for first time
-send time changes
+
+just trying new stuff
